@@ -1,0 +1,18 @@
+.includes{
+    list-style: none;
+}
+.name{
+    font-family: 'Passions Conflict', cursive;
+    font-size: 50px;
+}
+
+.all{
+    font-size: 22px;
+    font-family: 'Cormorant Garamond', serif;
+}
+
+@media all and (max-width:500px){
+    .image{
+        width: 100%;
+    } 
+}
